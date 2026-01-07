@@ -8,3 +8,4 @@ contract HelloBase {
         message = _message;
     }
 }
+ 
